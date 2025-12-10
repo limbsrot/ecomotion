@@ -1,14 +1,14 @@
-# Ecomotion Assignment
 <h1 align="center">
+  <br>
+  Ecomotion Assignment
   <br>
   <a href="https://webtorrent.io">
     <img src="https://webtorrent.io/img/WebTorrent.png" alt="WebTorrent" width="200">
   </a>
   <br>
- #Ecomotion Assignment
+  Ecomotion Assignment
   <br>
-This is a demo UI for community-based smart travel initiative called `Ecomotion`.
-
+  <small>This is a demo UI for community-based smart travel initiative called <code>Ecomotion</code>.</small>
   <br>
 </h1>
 
