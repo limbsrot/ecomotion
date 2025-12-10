@@ -37,7 +37,3 @@
 6. **Start the Project:**
     ```bash
     npm run dev
-    ```
-
-> [!NOTE]
-> add something important sounding here :)
