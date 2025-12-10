@@ -16,6 +16,7 @@
 
 ## Requirements
 - Node.js 23 or later (from [Next.js docs](https://nextjs.org/docs/app/getting-started/installation#system-requirements))
+- Git (from [git docs](https://git-scm.com/install/))
 
   <br>
 
