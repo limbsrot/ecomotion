@@ -140,7 +140,6 @@ body {
 }
 
 .header-subtitle {
-  margin-top: 0.55rem;
   font-size: 0.95rem;
   color: var(--text-muted);
 }
@@ -305,7 +304,6 @@ body {
 
 .form-label {
   font-size: 0.78rem;
-  text-transform: uppercase;
   letter-spacing: 0.12em;
   color: var(--text-muted);
 }
@@ -757,7 +755,6 @@ legend {
 .community-impact-unit {
   font-size: 0.72rem;
   margin-left: 0.2rem;
-  text-transform: uppercase;
   color: var(--accent-strong);
 }
 
@@ -847,12 +844,6 @@ legend {
   gap: 0.4rem;
 }
 
-.site-brand-title {
-  font-size: 0.9rem;
-  font-weight: 600;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
 
 /* user icon button on the right */
 .site-user-area {
