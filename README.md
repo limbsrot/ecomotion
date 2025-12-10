@@ -9,13 +9,16 @@
   </a>
   <br>
   <br>
-  <small>This is a demo UI for community-based smart travel initiative called <code>Ecomotion</code>.</small>
+  <small>This is a demo UI for community-based smart travel initiative called <code>Ecomotion</code></small>
   <br>
 </h1>
 
+  <br>
 
-## Requriements
+## Requirements
 - Node.js 23 or later (from [Next.js docs](https://nextjs.org/docs/app/getting-started/installation#system-requirements))
+
+  <br>
 
 ## Usage
 1. **Install NodeJS:**
