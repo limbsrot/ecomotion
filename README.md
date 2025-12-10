@@ -2,11 +2,12 @@
   <br>
   Ecomotion Assignment
   <br>
+  <br>
+  <br>
   <a href="https://webtorrent.io">
     <img src="https://webtorrent.io/img/WebTorrent.png" alt="WebTorrent" width="200">
   </a>
   <br>
-  Ecomotion Assignment
   <br>
   <small>This is a demo UI for community-based smart travel initiative called <code>Ecomotion</code>.</small>
   <br>
