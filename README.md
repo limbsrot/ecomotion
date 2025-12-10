@@ -2,7 +2,7 @@
 This is a demo UI for community-based smart travel initiative called `Ecomotion`.
 
 ## Requriements
-- Node.js 20.9 or later (from [Next.js docs](https://nextjs.org/docs/app/getting-started/installation#system-requirements))
+- Node.js 23 or later (from [Next.js docs](https://nextjs.org/docs/app/getting-started/installation#system-requirements))
 
 ## Usage
 1. **Install NodeJS:**
@@ -12,10 +12,13 @@ This is a demo UI for community-based smart travel initiative called `Ecomotion`
 2. **Clone and Open the Project:**
     ```bash
     git clone (https://github.com/limbsrot/ecomotion.git)
+    ```
+    ```bash
     cd ecomotion
+    ```
+    ```bash
     npm install
     ```
-
 6. **Start the Project:**
     ```bash
     npm run dev
