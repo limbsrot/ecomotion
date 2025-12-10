@@ -1,5 +1,17 @@
 # Ecomotion Assignment
+<h1 align="center">
+  <br>
+  <a href="https://webtorrent.io">
+    <img src="https://webtorrent.io/img/WebTorrent.png" alt="WebTorrent" width="200">
+  </a>
+  <br>
+ #Ecomotion Assignment
+  <br>
 This is a demo UI for community-based smart travel initiative called `Ecomotion`.
+
+  <br>
+</h1>
+
 
 ## Requriements
 - Node.js 23 or later (from [Next.js docs](https://nextjs.org/docs/app/getting-started/installation#system-requirements))
