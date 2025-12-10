@@ -11,7 +11,7 @@ This is a demo UI for community-based smart travel initiative called `Ecomotion`
 
 2. **Clone and Open the Project:**
     ```bash
-    git clone (https://github.com/limbsrot/ecomotion.git)
+    git clone https://github.com/limbsrot/ecomotion.git
     ```
     ```bash
     cd ecomotion
