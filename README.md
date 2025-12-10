@@ -3,8 +3,7 @@
   Ecomotion Assignment
   <br>
   <br>
-  <br>
-  <a href="https://webtorrent.io">
+  <a>
     <img src="https://i.ibb.co/VpVqLLKx/logo.png" alt="EcomotionLogo" width="200">
   </a>
   <br>
