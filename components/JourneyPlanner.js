@@ -17,7 +17,7 @@ export default function JourneyPlanner() {
     }
 
     setFeedback(
-      `this is a mock plan: your ${mode} trip from "${from}" to "${to}" would be calculated here.`
+      `this is a mock plan: your ${mode} trip from "${from}" to "${to}" would be calculated here :p`
     );
   }
 
