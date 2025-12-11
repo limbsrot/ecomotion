@@ -25,7 +25,7 @@
     - [Windows/macOS](https://nodejs.org/en/download/current)
     - [Linux](https://nodesource.com/products/distributions)
     
-2. ##Install Git
+2. **Install Git**
     - [Windows/macOS/Linux](https://git-scm.com/install/))
 
 
