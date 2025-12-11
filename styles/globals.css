@@ -57,31 +57,34 @@ body {
   }
 }
 
-/* app shell */
 .app-root {
   min-height: 100vh;
-  display: flex;
+  display: block;
   justify-content: center;
-  padding: 1.5rem;
+  padding: 3.5rem 1.5rem 3rem; 
 }
 
 .app-shell {
   width: 100%;
   max-width: 1200px;
+
   background: linear-gradient(
       135deg,
       rgba(15, 23, 42, 0.96),
       rgba(2, 6, 23, 0.96)
-    );
+  );
+
   border-radius: 24px;
   border: 1px solid rgba(148, 163, 184, 0.18);
   box-shadow: 0 40px 120px rgba(15, 23, 42, 0.7);
+
   padding: 1.75rem 1.75rem 2rem;
   backdrop-filter: blur(18px);
-  margin-top: 3.5rem; /* space for fixed brand bar */
+
+  margin: 0 auto; 
 }
 
-/* skip link for accessibility */
+
 .skip-link {
   position: absolute;
   left: 50%;
@@ -103,7 +106,6 @@ body {
   outline: 2px solid var(--focus-ring);
 }
 
-/* header styles */
 .header {
   display: flex;
   flex-wrap: wrap;
@@ -804,7 +806,7 @@ legend {
   text-transform: uppercase;
 }
 
-/* brand bar spans the top with logo on left and user icon on right */
+/* brand bar spans the top with logo on left and user icon on right bla bla bla*/
 .site-brand-bar {
   position: fixed;
   top: 0.9rem;
@@ -819,7 +821,9 @@ legend {
 
 .site-brand-inner,
 .site-user-area {
-  pointer-events: auto; /* children are still clickable */
+  pointer-events: auto; /* children are still clickable 👽 */
+  position: relative;
+
 }
 
 .site-brand-inner {
@@ -844,10 +848,6 @@ legend {
 }
 
 
-/* user icon button on the right */
-.site-user-area {
-  position: relative;
-}
 
 .user-icon-button {
   border: none;
