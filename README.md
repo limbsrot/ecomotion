@@ -8,7 +8,7 @@
   </a>
   <br>
   <br>
-  <small>This is a demo UI for community-based smart travel initiative called <code>Ecomotion</code></small>
+  <small>This is a demo UI for the community-centered smart travel initiative called <code>Ecomotion</code></small>
   <br>
 </h1>
 
