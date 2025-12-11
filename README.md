@@ -24,8 +24,12 @@
 1. **Install NodeJS:**
     - [Windows/macOS](https://nodejs.org/en/download/current)
     - [Linux](https://nodesource.com/products/distributions)
+    
+2. ##Install Git
+    - [Windows/macOS/Linux](https://git-scm.com/install/))
 
-2. **Clone and Open the Project:**
+
+4. **Clone and Open the Project:**
     ```bash
     git clone https://github.com/limbsrot/ecomotion.git
     ```
@@ -35,11 +39,11 @@
     ```bash
     npm install
     ```
-3. **Start the Project:**
+5. **Start the Project:**
     ```bash
     npm run dev
     ```
-4. **Navigate to the page:**
+6. **Navigate to the page on applicable browser:**
     ```bash
     localhost:<port>
     ```
