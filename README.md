@@ -16,6 +16,7 @@
 
 ## Requirements
 - Node.js 23 or later (from [Next.js docs](https://nextjs.org/docs/app/getting-started/installation#system-requirements))
+- Git (from [git docs](https://git-scm.com/install/))
 
   <br>
 
@@ -34,6 +35,11 @@
     ```bash
     npm install
     ```
-6. **Start the Project:**
+3. **Start the Project:**
     ```bash
     npm run dev
+    ```
+4. **Navigate to the page:**
+    ```bash
+    localhost:<port>
+    ```
