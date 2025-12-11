@@ -47,7 +47,7 @@
     ```bash
     localhost:<port>
     ```
-## How to run the project on your network
+## How to run the project on your local network for testing on various devices.
 ```bash
-npm run dev -- --host
+npx next dev --hostname 0.0.0.0
 ```
