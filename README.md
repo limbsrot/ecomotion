@@ -47,3 +47,7 @@
     ```bash
     localhost:<port>
     ```
+## How to run the project on your network
+```bash
+npm run dev -- --host
+```
