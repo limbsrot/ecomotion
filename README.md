@@ -35,6 +35,11 @@
     ```bash
     npm install
     ```
-6. **Start the Project:**
+3. **Start the Project:**
     ```bash
     npm run dev
+    ```
+4. **Navigate to the page:**
+    ```bash
+    localhost:<port>
+    ```
